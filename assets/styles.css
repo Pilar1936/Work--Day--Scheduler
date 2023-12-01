@@ -1,0 +1,93 @@
+
+ .display-3 {
+  font-family: cursive;
+ }
+
+
+body {
+  font-size: 16px;
+  line-height: 1;
+  background-image: url(/assets/images/2400-hermosa-nube-blanca-sobre-cielo-azul-naturaleza-fondo.jpg);
+
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+}
+
+
+textarea {
+  background: skyblue;
+  border-radius: 12px black;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+
+.description {
+  white-space: pre-wrap;
+}
+
+.time-block {
+  text-align: center;
+  border-radius: 15px;
+}
+
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px solid white;;
+}
+
+.hour {
+  background-color: #ffffff;
+  color: #000000;
+  border-top: 1px dashed #000000;
+}
+
+.past {
+  background-color: #d3d3d3;
+  color: black;
+}
+
+.present {
+  background-color: skyblue;
+  color: black;
+}
+
+.future {
+  background-color: #77dd77;
+  color: black;
+}
+
+.saveBtn {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #061bd5;
+  color: white;
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all .3s ease-in-out; 
+  color: #77dd77;
+}
+
+.fas {
+  position: absolute;
+  height: 20px;
+  width: 20px;
+  top: 40%;
+  left: 40%;
+}
