@@ -1,7 +1,7 @@
 # Work-Day-Scheduler
 
 screenshot
-        <img src="./assets/images/2400-hermosa-nube-blanca-sobre-cielo-azul-naturaleza-fondo.jpg">
+        <img src="./assets/images/Screenshot..png">
 
 ## Acceptance Criteria
 
