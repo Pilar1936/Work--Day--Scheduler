@@ -1,7 +1,7 @@
 # Work-Day-Scheduler
 
 screenshot
-        <img src="./assets/images/Work Day Scheduler.gif">
+        <img src="./assets/images/Work Day Scheduler.gif"/>
 
 ## Acceptance Criteria
 
